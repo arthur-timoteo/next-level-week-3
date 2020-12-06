@@ -1,0 +1,10 @@
+src > index.tsx (Primeiro arquivo JS carregado junto ao index.html)
+
+.tsx => T typescript SX é devido a utilização do JSX - JavaScript XML
+
+react-dom => integração do react com a DOM (árvore/estrutura de elementos do site html)
+
+Propriedade => um atributo que é passado para um componente
+
+SPA (Single Page Aplication)
+O site muda de página recarregando apenas os itens diferente, os itens que são iguais não são recarregados proporcionando uma maior velocidade e melhoria na experiência do usuário.
